@@ -1,0 +1,24 @@
+img {
+    width: 250px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 30px;
+  }
+  .username {
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .message {
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  body {
+    background-color: lightsalmon;
+  }
+
+  table, tr, th, td, caption {
+    border: 2px solid #eee;
+     font-family: 'Courier New', Courier, monospace; 
+     border-collapse: collapse; 
+     padding: 0.5rem;
+    }

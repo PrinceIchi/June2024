@@ -1,0 +1,17 @@
+img {
+    width: 700px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 30px;
+  }
+  .username {
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .message {
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  body {
+    background-color: lightsalmon;
+  }
