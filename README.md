@@ -1,2 +1,2 @@
 # KimmBrowArt
-My first Hello World project, done how I wanted.
+My first Hello World project, but for brow business.
